@@ -1,5 +1,4 @@
 # human-history
-It is the history of human.
 # 人类文明演进史 - 完整沉浸版
 
 > 从第一缕意识之火到数字时代的黎明，穿越700万年的时光长河。
